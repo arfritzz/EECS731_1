@@ -1,10 +1,7 @@
-# DataScience
-
-## EECS 731
+# DataScience EECS 731 at KU 
 
 ## Project 1 - Jimmy Wrangler, Data Explorer
-
-## A project by Anna Fritz 
+## By Anna Fritz 
 
 # Industry 
 
