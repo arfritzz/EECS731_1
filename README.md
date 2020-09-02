@@ -11,3 +11,13 @@ One of the things I enjoy most is exercising. So, for this project I chose to lo
 2. In general, how much of the population considers themselves fit? 
 3. How do people track their exercise? 
 4. Are people who track their exercise more likely to complete daily exercise goals? 
+
+
+# Possible data sets
+
+1. https://www.kaggle.com/unsdsn/world-happiness
+  - world happiness vs health score 
+  
+# New goal
+
+Correlation between mental health and healthy diets 
