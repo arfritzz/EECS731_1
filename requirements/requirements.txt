@@ -1,4 +1,4 @@
- ##  Traveling the world on a mission to discover new data
+Traveling the world on a mission to discover new data
 1. Set up a data science project structure in a new git repository in your GitHub account
 2. Install Jupyter notebook prerequisites (Anaconda, Python, etc.)
 3. Select an industry
