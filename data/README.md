@@ -4,7 +4,7 @@ People using safely managed drinking water services (% of population) - https://
 
 Life expectancy at birth, total (years) - https://data.worldbank.org/indicator/SP.DYN.LE00.IN?view=chart
 
-## What data did I use? 
+## What data did I analyze? 
 
 I took the data from the file `data.csv` in the folder LifeExpectancyAtBirth. I also used data from the file `water.csv` in the folder PeopleUsingSafeWater. 
 
