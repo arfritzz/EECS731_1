@@ -6,4 +6,6 @@ Life expectancy at birth, total (years) - https://data.worldbank.org/indicator/S
 
 ## What data did I use? 
 
+I took the data from the file `data.csv` in the folder LifeExpectancyAtBirth. I also used data from the file `water.csv` in the folder PeopleUsingSafeWater. 
+
 I reworked the data and redownloaded the updated files in the `life_N.csv` `life_US.csv` `water_N.csv` `water_US.csv`
