@@ -11,6 +11,8 @@ Particularly, I studied the relationship between clean drinking water in the US 
 
 ## Data Sets 
 
+All data sets I found included information about most countries. I had to refine them to only include the counties I was intersted in studying. 
+
 People using safely managed drinking water services (% of population) - https://data.worldbank.org/indicator/SH.H2O.SMDW.ZS?view=chart
 
 Life expectancy at birth, total (years) - https://data.worldbank.org/indicator/SP.DYN.LE00.IN?view=chart
